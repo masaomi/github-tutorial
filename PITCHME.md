@@ -81,7 +81,7 @@
 @snapend
 
 @snap[south span-100 text-gray text-08]
-@[6-7, zoom-12](https://www.edureka.co/blog/git-tutorial/)
+@[1](https://www.edureka.co/blog/git-tutorial/)
 @snapend
 
 ---
