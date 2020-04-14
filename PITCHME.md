@@ -73,7 +73,7 @@
 ---
 
 @snap[north-west text-center]
-#### 6. Summary
+### 6. Summary
 @snapend
 
 @snap[center span-90]
@@ -81,7 +81,7 @@
 @snapend
 
 @snap[south span-100 text-gray text-08]
-@[0](https://www.edureka.co/blog/git-tutorial/)
+https://www.edureka.co/blog/git-tutorial/
 @snapend
 
 ---
