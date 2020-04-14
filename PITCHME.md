@@ -76,11 +76,11 @@
 #### 6. Summary
 @snapend
 
-https://www.edureka.co/blog/git-tutorial/
-
-@snap[south span-90]
+@snap[north span-90]
 @img[shadow](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
 @snapend
+
+https://www.edureka.co/blog/git-tutorial/
 
 ---
 
