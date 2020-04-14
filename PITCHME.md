@@ -18,10 +18,7 @@ https://github.com/masaomi/github-tutorial
 @ulend
 @snap[west]
 
-@snap[south span-100 text-gray text-08]
-10 mins Guide: https://guides.github.com/activities/hello-world/a
-@snapend
-
+* 10 mins Guide: https://guides.github.com/activities/hello-world/
 
 ---
 
