@@ -39,7 +39,7 @@
 Link
 * https://www.edureka.co/blog/git-tutorial/
 
-Waht is xext?
+What is next?
 * Learn markdowon format (document)
 * Use Git
 
