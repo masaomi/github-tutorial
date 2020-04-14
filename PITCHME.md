@@ -78,7 +78,7 @@
 
 https://www.edureka.co/blog/git-tutorial/
 
-@snap[south span-100 bg-black fragment]
+@snap[south span-90]
 @img[shadow](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
 @snapend
 
