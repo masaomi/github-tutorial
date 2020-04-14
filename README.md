@@ -42,3 +42,6 @@ Waht is xext?
 * Learn markdowon format (document)
 * Use Git
 
+Note
+* demonstration
+* git diff --word-diff=color
