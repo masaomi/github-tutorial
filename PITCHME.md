@@ -3,7 +3,7 @@
 ---
 
 @snap[north-west text-center]
-#### 1. What is GitHub?
+### 1. What is GitHub?
 @snapend
 
 @snap[west]
@@ -16,7 +16,7 @@
 ---
 
 @snap[north-west text-center]
-#### 2. How to use?
+### 2. How to use?
 @snapend
 
 @snap[west]
@@ -45,7 +45,7 @@
 ---
 
 @snap[north-west text-center]
-#### 4. How to update?
+### 4. How to update?
 @snapend
 
 @snap[west]
@@ -59,7 +59,7 @@
 ---
 
 @snap[north-west text-center]
-#### 5. Additional important 3 operations
+### 5. Additional important 3 operations
 @snapend
 
 @snap[west]
@@ -73,7 +73,7 @@
 ---
 
 @snap[north-west text-center]
-#### 6. Summary
+### 6. Summary
 @snapend
 
 @snap[north span-90]
@@ -81,7 +81,7 @@
 @snapend
 
 @snap[south span-100 text-gray text-08]
-@[1](https://www.edureka.co/blog/git-tutorial/)
+@[0](https://www.edureka.co/blog/git-tutorial/)
 @snapend
 
 ---
