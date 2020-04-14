@@ -14,6 +14,7 @@ https://github.com/masaomi/github-tutorial
 @ul[list-spaced-bullets text-09]
 * Version control tool
 * Command line tool (Web GUI is helpful)
+* https://github.com/
 @ulend
 @snap[west]
 
