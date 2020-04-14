@@ -3,7 +3,7 @@
 
 ## 1. What is GitHub?
 
-* Version control tool
+* Version control tool (documents, source code, etc.)
 * Command line tool (Web UI is helpful)
 * https://github.com/
 

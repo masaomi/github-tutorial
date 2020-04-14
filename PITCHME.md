@@ -12,7 +12,7 @@ https://github.com/masaomi/github-tutorial
 
 @snap[west]
 @ul[list-spaced-bullets text-09]
-* Version control tool
+* Version control tool (documents, source code, etc.)
 * Command line tool (Web UI is helpful)
 * https://github.com/
 @ulend
