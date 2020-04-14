@@ -80,10 +80,15 @@
 @img[shadow](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
 @snapend
 
-https://www.edureka.co/blog/git-tutorial/
 
 ---
 
 # Demonstration
+
+
+@snap[south span-100 text-gray text-08]
+@[6, zoom-12](https://www.edureka.co/blog/git-tutorial/)
+@snapend
+
 
 
