@@ -24,8 +24,15 @@ A
 2. **Commit** the file to the local repository
 3. **Push**  the file to the remote repository
 
-Additional two operations
+Additional important 3 operations
 * **Clone**: copy all the files in the remote repository to your computer, and make a local repository
 * **Pull**: update/syncronize the local repository to the remote repository
+* **Status**: check the file status
 
+## Summary
+
+[summary](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
+
+Link
+* https://www.edureka.co/blog/git-tutorial/
 
