@@ -15,48 +15,72 @@
 
 ---
 
-### 2. How to use?
+@snap[north-west span-50 text-center]
+#### 2. How to use?
+@snapend
 
-@ul
+@snap[west]
+@ul[list-spaced-bullets text-09]
 1. Make an account
 2. Make a new **repository**
 3. Update the repository
 @ulend
+@snap[west]
 
 
 ---
 
+@snap[north-west span-50 text-center]
 ### 3. What is Repository?
+@snapend
 
+@snap[west]
+@ul[list-spaced-bullets text-09]
 * A unit of project (a sort of directory)
 * **Local repository** the files in your computer
 * **Remote repository** the files in the GitHub server
+@ulend
+@snap[west]
 
 ---
 
-### 4. How to update?
+@snap[north-west span-50 text-center]
+#### 4. How to update?
+@snapend
 
+@snap[west]
+@ul[list-spaced-bullets text-09]
 1. **Add** a new file to the repository
 2. **Commit** the file to the local repository
 3. **Push**  the file to the remote repository
+@ulend
+@snap[west]
 
 ---
 
-### 5. Additional important 3 operations
+@snap[north-west span-50 text-center]
+#### 5. Additional important 3 operations
+@snapend
 
+@snap[west]
+@ul[list-spaced-bullets text-09]
 1. **Status**: check the file status
 2. **Clone**: copy all the files in the remote repository to your computer, and make a local repository
 3. **Pull**: update/syncronize the local repository to the remote repository
+@ulend
+@snap[west]
 
 ---
 
-### 6. Summary
+@snap[north-west span-50 text-center]
+#### 6. Summary
+@snapend
 
-![summary](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
+https://www.edureka.co/blog/git-tutorial/
 
-Link
-* https://www.edureka.co/blog/git-tutorial/
-* https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
+@snap[south span-100 bg-black fragment]
+@img[shadow](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
+@snapend
 
 ---
 
