@@ -31,7 +31,7 @@ Additional important 3 operations
 
 ## Summary
 
-[summary](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
+![summary](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
 
 Link
 * https://www.edureka.co/blog/git-tutorial/
