@@ -73,10 +73,10 @@
 ---
 
 @snap[north-west text-center]
-### 6. Summary
+#### 6. Summary
 @snapend
 
-@snap[north span-90]
+@snap[center span-90]
 @img[shadow](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
 @snapend
 
