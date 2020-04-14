@@ -1,6 +1,5 @@
 # Github super-quick tutorial
 
-test
 
 ## 1. What is GitHub?
 
