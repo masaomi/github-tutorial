@@ -14,11 +14,10 @@ https://github.com/masaomi/github-tutorial
 @ul[list-spaced-bullets text-09]
 * Version control tool (documents, source code, etc.)
 * Command line tool (Web UI is helpful)
-* https://github.com/
+* 10 minutes uuide: https://guides.github.com/activities/hello-world/
 @ulend
 @snap[west]
 
-* 10 mins Guide: https://guides.github.com/activities/hello-world/
 
 ---
 
