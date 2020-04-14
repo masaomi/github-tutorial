@@ -7,6 +7,9 @@
 * Command line tool (Web UI is helpful)
 * https://github.com/
 
+10 minutes guide
+* https://guides.github.com/activities/hello-world/
+
 ## 2. How to use?
 
 1. Make an account
