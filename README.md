@@ -4,7 +4,8 @@
 ## 1. What is GitHub?
 
 * Version control tool
-* Command line tool (Web GUI is helpful)
+* Command line tool (Web UI is helpful)
+* https://github.com/
 
 ## 2. How to use?
 
