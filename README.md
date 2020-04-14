@@ -15,7 +15,7 @@
 ## 3. What is Repository?
 
 **Repository**
-* A unit of project (sort of directory)
+* A unit of project (a sort of directory)
 * **Local repository** the files in your computer
 * **Remote repository** the files in the GitHub server
 
