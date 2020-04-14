@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[north-west text-center]
 #### 1. What is GitHub?
 @snapend
 
@@ -15,7 +15,7 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[north-west text-center]
 #### 2. How to use?
 @snapend
 
@@ -30,7 +30,7 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[north-west text-center]
 ### 3. What is Repository?
 @snapend
 
@@ -44,7 +44,7 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[north-west text-center]
 #### 4. How to update?
 @snapend
 
@@ -58,7 +58,7 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[north-west text-center]
 #### 5. Additional important 3 operations
 @snapend
 
@@ -72,7 +72,7 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[north-west text-center]
 #### 6. Summary
 @snapend
 
