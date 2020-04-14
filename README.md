@@ -30,7 +30,7 @@
 
 1. **Status**: check the file status
 2. **Clone**: copy all the files in the remote repository to your computer, and make a local repository
-3. **Pull**: update/syncronize the local repository to the remote repository
+3. **Pull**: update/synchronize the local repository to the remote repository
 
 ## 6. Summary
 
