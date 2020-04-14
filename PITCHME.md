@@ -1,5 +1,9 @@
 ## GitHub **Super-Quick** Tutorial
 
+@snap[south span-100 text-gray text-08]
+https://github.com/masaomi/github-tutorial
+@snapend
+
 ---
 
 @snap[north-west text-center]
@@ -87,7 +91,5 @@ https://www.edureka.co/blog/git-tutorial/
 ---
 
 # Demonstration
-
-
 
 
