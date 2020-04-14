@@ -21,7 +21,7 @@ A
 ## Q: How to update?
 
 1. **Add** a new file to the repository
-2. **Commit* the file to the local repository
+2. **Commit** the file to the local repository
 3. **Push**  the file to the remote repository
 
 Additional two operations
