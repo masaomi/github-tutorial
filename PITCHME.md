@@ -1,13 +1,17 @@
-# GitHub **Super-Quick** Tutorial
+## GitHub **Super-Quick** Tutorial
 
 ---
 
-### 1. What is GitHub?
+@snap[north-west span-50 text-center]
+#### 1. What is GitHub?
+@snapend
 
+@snap[west span-55]
 @ul[list-spaced-bullets text-09]
 * Version control tool
 * Command line tool (Web GUI is helpful)
 @ulend
+@snap[west span-55]
 
 ---
 
