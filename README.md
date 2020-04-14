@@ -38,7 +38,7 @@
 Link
 * https://www.edureka.co/blog/git-tutorial/
 
-Next
-* Learn markdowon format
+Waht is xext?
+* Learn markdowon format (document)
 * Use Git
 
