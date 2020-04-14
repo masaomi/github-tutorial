@@ -24,7 +24,6 @@
 
 ### 3. What is Repository?
 
-**Repository**
 * A unit of project (a sort of directory)
 * **Local repository** the files in your computer
 * **Remote repository** the files in the GitHub server
@@ -49,14 +48,11 @@
 
 ### 6. Summary
 
-![summary](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
+![summary](assets/img/Git-Architechture-Git-Tutorial-Edureka.png)
 
 Link
 * https://www.edureka.co/blog/git-tutorial/
-
-Waht is xext?
-* Learn markdowon format (document)
-* Use Git
+* https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
 
 ---
 
